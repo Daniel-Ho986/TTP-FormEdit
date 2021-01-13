@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TTP-FormEdit/static/css/main.f5c98dcf.chunk.css",
+    "main.js": "/TTP-FormEdit/static/js/main.35ac2c98.chunk.js",
+    "main.js.map": "/TTP-FormEdit/static/js/main.35ac2c98.chunk.js.map",
+    "runtime-main.js": "/TTP-FormEdit/static/js/runtime-main.2174a153.js",
+    "runtime-main.js.map": "/TTP-FormEdit/static/js/runtime-main.2174a153.js.map",
+    "static/js/2.6727df9c.chunk.js": "/TTP-FormEdit/static/js/2.6727df9c.chunk.js",
+    "static/js/2.6727df9c.chunk.js.map": "/TTP-FormEdit/static/js/2.6727df9c.chunk.js.map",
+    "static/js/3.ff56813e.chunk.js": "/TTP-FormEdit/static/js/3.ff56813e.chunk.js",
+    "static/js/3.ff56813e.chunk.js.map": "/TTP-FormEdit/static/js/3.ff56813e.chunk.js.map",
+    "index.html": "/TTP-FormEdit/index.html",
+    "static/css/main.f5c98dcf.chunk.css.map": "/TTP-FormEdit/static/css/main.f5c98dcf.chunk.css.map",
+    "static/js/2.6727df9c.chunk.js.LICENSE.txt": "/TTP-FormEdit/static/js/2.6727df9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2174a153.js",
+    "static/js/2.6727df9c.chunk.js",
+    "static/css/main.f5c98dcf.chunk.css",
+    "static/js/main.35ac2c98.chunk.js"
+  ]
+}
